@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface">#FFFFF7FB</color>
+    <color name="card">#FFFFFFFF</color>
+    <color name="result_card">#FFF3F0FF</color>
+    <color name="input">#FFFFFBFD</color>
+    <color name="line">#FFF0DCE8</color>
+    <color name="ink">#FF38283D</color>
+    <color name="muted">#FF89778B</color>
+    <color name="primary">#FFE95091</color>
+    <color name="soft">#FFFFE2EF</color>
+    <color name="warning">#FF95651E</color>
+    <color name="success">#FF278E68</color>
+    <color name="error">#FFD94B69</color>
+    <color name="deep">#FF65284B</color>
+    <color name="hero_start">#FFFFC2D7</color>
+    <color name="hero_end">#FFD7CCFF</color>
+    <color name="hero_stroke">#FFFFD6E6</color>
+    <color name="tab_ripple">#33E95091</color>
+    <color name="button_neutral">#FFEAE5FF</color>
+    <color name="button_down">#FFFFD6E4</color>
+    <color name="button_primary">#FFFFB8D2</color>
+    <color name="button_up">#FFBDEED7</color>
+</resources>
